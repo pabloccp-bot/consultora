@@ -1,3 +1,3 @@
 # consultora
 consultora contable
-Este proyecto fue realizado para una consultora contable donde se muestra las areas en la que se desarrolla la empresa.
+Este proyecto fue realizado para una consultora contable. Se utiliza lenguaje de programación php y base de datos mysql. 
